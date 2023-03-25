@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JourneyThroughBoeotia", "JourneyThroughBoeotia\JourneyThroughBoeotia.csproj", "{C8DCCD84-795B-4FAC-9AF3-D75A71BD9DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DCCD84-795B-4FAC-9AF3-D75A71BD9DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DCCD84-795B-4FAC-9AF3-D75A71BD9DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DCCD84-795B-4FAC-9AF3-D75A71BD9DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DCCD84-795B-4FAC-9AF3-D75A71BD9DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

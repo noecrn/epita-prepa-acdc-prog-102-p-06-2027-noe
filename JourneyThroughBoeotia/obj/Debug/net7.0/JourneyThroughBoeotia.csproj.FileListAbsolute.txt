@@ -1,0 +1,15 @@
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/bin/Debug/net7.0/JourneyThroughBoeotia
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/bin/Debug/net7.0/JourneyThroughBoeotia.deps.json
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/bin/Debug/net7.0/JourneyThroughBoeotia.runtimeconfig.json
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/bin/Debug/net7.0/JourneyThroughBoeotia.dll
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/bin/Debug/net7.0/JourneyThroughBoeotia.pdb
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.csproj.AssemblyReference.cache
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.AssemblyInfoInputs.cache
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.AssemblyInfo.cs
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.csproj.CoreCompileInputs.cache
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.dll
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/refint/JourneyThroughBoeotia.dll
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.pdb
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/JourneyThroughBoeotia.genruntimeconfig.cache
+/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/Debug/net7.0/ref/JourneyThroughBoeotia.dll

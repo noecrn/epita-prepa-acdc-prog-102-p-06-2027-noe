@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/JourneyThroughBoeotia.csproj": {}
+  },
+  "projects": {
+    "/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/JourneyThroughBoeotia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/JourneyThroughBoeotia.csproj",
+        "projectName": "JourneyThroughBoeotia",
+        "projectPath": "/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/JourneyThroughBoeotia.csproj",
+        "packagesPath": "/Users/noecornu/.nuget/packages/",
+        "outputPath": "/Users/noecornu/Documents/epita-prepa-acdc-prog-102-p-06-2027-noe.cornu/JourneyThroughBoeotia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/noecornu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
